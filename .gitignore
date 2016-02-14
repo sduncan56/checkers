@@ -1,0 +1,6 @@
+
+Client/PodSixNet/*
+Client/pgu/*
+Client/data/*
+Server/PodSixNet/*
+*.pyc
